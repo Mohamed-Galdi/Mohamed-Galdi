@@ -1,23 +1,55 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Galdi
-=====================================================================================================================================
+# 👋 Hi, I'm Mohamed Galdi  
 
-Web Developer
--------------
+🎯 **Laravel Developer | Freelancer | Tech Enthusiast**  
+💻 Specializing in modern web applications with **Laravel**, **Vue.js**, **Tailwind CSS**, and **MySQL**.  
 
-I'm based in Agadir, Morocco. I have a specialized technician degree in full-stack development from ISTA (Institut des Sciences et Techniques Appliquées). I love Laravel and Next.js as full-stack frameworks, MySQL and MongoDB for databases, and, of course, Tailwind CSS.
+---
 
-* 🖥️  See my portfolio at [www.galdi.dev](http://https://galdi.dev/)
-* ✉️  You can contact me at [contact.galdi@gmail.com](mailto:contact.galdi@gmail.com)
-* 🧠  I'm learning Vue.js
+## 🚀 About Me  
+- 🌍 Moroccan web developer passionate about crafting scalable and user-friendly applications.  
+- 📜 Vocational training graduate with a diploma in FullStack web development (2023).  
+- 🔧 Experienced in freelancing, delivering Laravel-powered solutions for real-world problems.  
+- 🌟 Exploring the latest in the Laravel ecosystem and sharing knowledge with the community.  
 
-### Skills
+---
 
+## 🔨 Tech Stack  
+**Backend**: Laravel, PHP  
+**Frontend**: Vue.js, Inertia.js, React, Nuxt.js  
+**Styling**: Tailwind CSS  
+**Databases**: MySQL, MongoDB  
+**Others**: Filament, Stripe, Supabase  
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedgaldi&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedgaldi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
-### Socials
+## 🌟 Featured Projects  
+### [D-shirt](https://github.com/mohamedgaldi/d-shirt)  
+🛒 A T-shirt store with tech-inspired designs. Built with **VILT stack** and integrated with **Stripe** for payments and **Resend** for emails.  
 
-<p align="left"> <a href="https://www.linkedin.com/in/mohamed-galdi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/GaldiMohamed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### [Sahim](https://github.com/mohamedgaldi/sahim)  
+🍲 A platform for surplus food donation, developed in **Laravel**, supporting **RTL** for Arabic.  
+
+### [RealRentCar](https://github.com/mohamedgaldi/realrentcar)  
+🚗 My first Laravel project! A car rental platform with an admin dashboard.  
+
+Check out more on my [portfolio](#)!
+
+---
+
+## 📬 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohamedGaldi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamedgaldi)  
+[![Gmail](https://img.shields.io/badge/Gmail-mohamedgaldi@gmail.com-red?style=flat&logo=gmail)](mailto:mohamedgaldi@gmail.com)  
+
+---
+
+## 🌐 Fun Stuff  
+- ✍️ Blogging about Laravel on [Dev.to](https://dev.to/mohamedgaldi)  
+- 🌟 Open source enthusiast—check out my [Laravel Topics](https://github.com/mohamedgaldi/laravel-topics) repository!  
