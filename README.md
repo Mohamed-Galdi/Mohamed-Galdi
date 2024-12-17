@@ -34,8 +34,8 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Galdi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&show_icons=true&hide=issues,contribs&rank_icon=github&include_all_commits=true" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Galdi&layout=donut" alt="Top Languages" />
 </p>
 
 ---
