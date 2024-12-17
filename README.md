@@ -18,6 +18,17 @@
 - 🌱 Always learning and exploring new tools to improve my craft.  
 
 ---
+## 🌐 My Portfolio  
+
+Here are some of the projects I've built:
+
+- **[RealRentCar](https://github.com/Mohamed-Galdi/RealRentCar)** - A car rental platform built with Laravel and Tailwind.
+- **[D-shirt](https://github.com/Mohamed-Galdi/D-shirt)** - A tech-inspired T-shirt store with Stripe payments and Resend email integration.
+- **[TrackAll](https://github.com/Mohamed-Galdi/TrackAll)** - A task and project tracking platform using Vue.js and Nuxt.js.
+- **[Sahim](https://github.com/Mohamed-Galdi/Sahim)** - A food donation platform built with Laravel, Filament, and Tailwind.
+
+Feel free to explore more on my [Portfolio](https://www.mohamedgaldi.com).
+---
 
 ## 📬 Let's Connect  
 <p align="center">
