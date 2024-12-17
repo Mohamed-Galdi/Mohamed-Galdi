@@ -3,12 +3,12 @@
 🎯 **Laravel Developer**  
 💻 Passionate about building scalable and modern web applications using Laravel and Vue.js.
 
-  <div>
+  <a>
     <img width="60%" height=200 src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&hide=issues,contribs&rank_icon=github&include_all_commits=true" alt="Mohamed's GitHub Stats" />
-  </div>
-  <div>
+  </a>
+  <a>
     <img width="35%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Galdi&layout=compact&langs_count=8" alt="Top Languages" />
-  </div>
+  </a>
 
 ---
 
