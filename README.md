@@ -1,38 +1,7 @@
 # 👋 Hi, I'm Mohamed Galdi  
 
-🎯 **Laravel Developer | Web Enthusiast**  
-💻 Passionate about building scalable and modern web applications using Laravel and Vue.js.  
-
----
-
-## 🚀 About Me  
-- 🌍 Moroccan developer with a diploma in FullStack web development (2023).  
-- 🔧 Specializing in the Laravel ecosystem, from backend to full-stack solutions.  
-- 🌱 Always learning and exploring new tools to improve my craft.  
-
----
-
-## 🔨 Tech Stack  
-- **Backend**: Laravel, PHP  
-- **Frontend**: Vue.js, Inertia.js  
-- **Styling**: Tailwind CSS  
-- **Databases**: MySQL  
-
----
-
-## 🌟 Featured Projects  
-### [D-shirt](https://github.com/mohamedgaldi/d-shirt)  
-🛒 A T-shirt store with tech-inspired designs, built with the **VILT stack** and integrated with **Stripe** for payments.  
-
-### [Sahim](https://github.com/mohamedgaldi/sahim)  
-🍲 A platform for surplus food donation, developed with **Laravel** and RTL support for Arabic.  
-
-### [TrackAll](https://github.com/mohamedgaldi/trackall)  
-📋 A side-project management app, built with **Vue.js**, **Nuxt.js**, and **Supabase**.  
-
----
-
-## 📈 GitHub Stats  
+🎯 **Laravel Developer**  
+💻 Passionate about building scalable and modern web applications using Laravel and Vue.js.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&hide=issues,contribs&rank_icon=github&include_all_commits=true" alt="Mohamed's GitHub Stats" " />
@@ -40,6 +9,13 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Galdi&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+---
+
+## 🚀 About Me  
+- 🌍 Moroccan developer with a diploma in FullStack web development (2023).  
+- 🔧 Specializing in the Laravel ecosystem, from backend to full-stack solutions.  
+- 🌱 Always learning and exploring new tools to improve my craft.  
 
 ---
 
