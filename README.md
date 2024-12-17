@@ -4,10 +4,10 @@
 💻 Passionate about building scalable and modern web applications using Laravel and Vue.js.
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="66%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&hide=issues,contribs&rank_icon=github&include_all_commits=true" alt="Mohamed's GitHub Stats" />
+    <img width="60%" height=200 src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&hide=issues,contribs&rank_icon=github&include_all_commits=true" alt="Mohamed's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Galdi&layout=compact&langs_count=8" alt="Top Languages" />
+    <img width="30%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Galdi&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
 
 ---
