@@ -26,8 +26,7 @@ Here are some of the projects I've built:
 - **[D-shirt](https://github.com/Mohamed-Galdi/D-shirt)** - A tech-inspired T-shirt store with Stripe payments and Resend email integration.
 - **[TrackAll](https://github.com/Mohamed-Galdi/TrackAll)** - A task and project tracking platform using Vue.js and Nuxt.js.
 - **[Sahim](https://github.com/Mohamed-Galdi/Sahim)** - A food donation platform built with Laravel, Filament, and Tailwind.
-
-Feel free to explore more on my [Portfolio](https://www.mohamedgaldi.com).
+👉🏻 Feel free to explore more on my portfolio **[www.galdi.dev](https://www.galdi.dev/)**
 ---
 
 ## 📬 Let's Connect  
@@ -35,7 +34,7 @@ Feel free to explore more on my [Portfolio](https://www.mohamedgaldi.com).
   <a href="mailto:contact.galdi@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamedgaldi" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/mohamed-galdi/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/GaldiMohamed" target="_blank" style="text-decoration: none;">
