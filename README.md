@@ -34,7 +34,8 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedgaldi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Galdi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
