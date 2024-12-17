@@ -18,6 +18,8 @@
 - 🌱 Always learning and exploring new tools to improve my craft.  
 
 ---
+https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=black&style=flat&label=twitter(X)
+---
 
 ## 📬 Let's Connect  
 <p align="center">
@@ -28,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourtwitterhandle" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=black&style=flat&label=twitter(X))" alt="Twitter" />
   </a>
   <a href="https://www.upwork.com/freelancers/~yourupworkhandle" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
