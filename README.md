@@ -3,12 +3,12 @@
 🎯 **Laravel Developer**  
 💻 Passionate about building scalable and modern web applications using Laravel and Vue.js.
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <div>
     <img width="60%" height=200 src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&hide=issues,contribs&rank_icon=github&include_all_commits=true" alt="Mohamed's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  </div>
+  <div>
     <img width="35%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Galdi&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
+  </div>
 
 ---
 
@@ -22,12 +22,13 @@
 
 Here are some of the projects I've built:
 
-- **[RealRentCar](https://realrentcar.galdi.dev/)** - A car rental platform built with Laravel and Tailwind.
-- **[D-shirt](https://d-shirts.galdi.dev/)** - A tech-inspired T-shirt store with Stripe payments and Resend email integration.
-- **[TrackAll](https://track-all-eta.vercel.app/)** - A task and project tracking platform using Vue.js and Nuxt.js.
-- **[Sahim](https://sahem.galdi.dev/)** - A food donation platform built with Laravel, Filament, and Tailwind.
+- **<a href="https://realrentcar.galdi.dev/" target="_blank">RealRentCar</a>** - A car rental platform built with Laravel and Tailwind.
+- **<a href="https://d-shirts.galdi.dev/" target="_blank">D-shirt</a>** - A tech-inspired T-shirt store with Stripe payments and Resend email integration.
+- **<a href="https://track-all-eta.vercel.app/" target="_blank">TrackAll</a>** - A task and project tracking platform using Vue.js and Nuxt.js.
+- **<a href="https://sahem.galdi.dev/" target="_blank">Sahim</a>** - A food donation platform built with Laravel, Filament, and Tailwind.
 
-  👉🏻 Feel free to explore more on my portfolio **[www.galdi.dev](https://www.galdi.dev/)**
+  👉🏻 Feel free to explore more on my portfolio **<a href="https://www.galdi.dev" target="_blank">www.galdi.dev</a>**
+
 ---
 
 ## 📬 Let's Connect  
