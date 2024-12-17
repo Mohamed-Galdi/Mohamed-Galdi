@@ -20,5 +20,17 @@
 ---
 
 ## 📬 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohamedGaldi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamedgaldi)  
-[![Gmail](https://img.shields.io/badge/Email-mohamedgaldi@gmail.com-red?style=flat&logo=gmail)](mailto:mohamedgaldi@gmail.com)  
+<p align="center">
+  <a href="mailto:mohamedgaldi@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedgaldi" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourupworkhandle" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+</p>
