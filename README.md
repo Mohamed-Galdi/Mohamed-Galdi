@@ -33,12 +33,12 @@
 ---
 
 ## 📈 GitHub Stats  
-<p >
+<a href="#" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Galdi&show_icons=true&hide=issues,contribs&rank_icon=github&include_all_commits=true" alt="Mohamed's GitHub Stats" />
-</p>
-<p >
+</a>
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Galdi&layout=donut" alt="Top Languages" />
-</p>
+</a>
 
 ---
 
