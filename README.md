@@ -7,7 +7,7 @@
   <img
     width="60%"
     height="200"
-    src="https://github-stats-extended.vercel.app/api?username=Mohamed-Galdi&hide=stars,commits,prs"
+    src="https://github-stats-extended.vercel.app/api?username=Mohamed-Galdi&hide=issues,contribs"
     alt="Mohamed's GitHub Stats"
   />
 </a>
